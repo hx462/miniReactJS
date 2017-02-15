@@ -53,11 +53,15 @@ ol, ul {
   font-size:100%;
 }
 
-.game-info > ol > li:hover { 
+.game-info > button {
+  margin-left: 20px;
+}
+
+/*.game-info > ol > li:hover:after {
   font-size:150%;
 }
 
-.game-info > ol > li:hover { 
+.game-info > ol > li:after { 
   content:attr(title);
   font-size:150%;
-}  
+}  */
